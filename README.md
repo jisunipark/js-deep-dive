@@ -38,7 +38,7 @@
 - [36장: 디스트럭처링 할당](https://www.notion.so/36-079539d633954f989585406b7702283d?pvs=4)
 - [37장: Set과 Map](https://www.notion.so/37-Set-Map-13b4bdcc393e80799de7fd177f23f205?pvs=4)
 - [38장: 브라우저의 렌더링 과정](https://www.notion.so/38-13b4bdcc393e801fa6acf4cc91cc8f79?pvs=4)
-- [39장: DOM]()
+- [39장: DOM](https://www.notion.so/39-DOM-1424bdcc393e8049839ee268982498b4?pvs=4)
 - [40장: 이벤트]()
 - [41장: 타이머]()
 - [42장: 비동기 프로그래밍](https://www.notion.so/42-1424bdcc393e80728cfadc617c92bb5f?pvs=4)
