@@ -40,7 +40,7 @@
 - [38장: 브라우저의 렌더링 과정](https://www.notion.so/38-13b4bdcc393e801fa6acf4cc91cc8f79?pvs=4)
 - [39장: DOM](https://www.notion.so/39-DOM-1424bdcc393e8049839ee268982498b4?pvs=4)
 - [40장: 이벤트](https://www.notion.so/40-1454bdcc393e803e8925f528d987472c?pvs=4)
-- [41장: 타이머]()
+- [41장: 타이머](https://www.notion.so/41-1474bdcc393e80e6a866e7b56726cd37?pvs=4)
 - [42장: 비동기 프로그래밍](https://www.notion.so/42-1424bdcc393e80728cfadc617c92bb5f?pvs=4)
 - [43장: Ajax]()
 - [44장: REST API]()
