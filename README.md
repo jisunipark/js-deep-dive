@@ -42,7 +42,7 @@
 - [40장: 이벤트](https://www.notion.so/40-1454bdcc393e803e8925f528d987472c?pvs=4)
 - [41장: 타이머](https://www.notion.so/41-1474bdcc393e80e6a866e7b56726cd37?pvs=4)
 - [42장: 비동기 프로그래밍](https://www.notion.so/42-1424bdcc393e80728cfadc617c92bb5f?pvs=4)
-- [43장: Ajax]()
+- [43장: Ajax](https://www.notion.so/43-Ajax-1494bdcc393e80748dd6c21ebac7cb75?pvs=4)
 - [44장: REST API](https://www.notion.so/44-REST-API-1494bdcc393e8010a134e7f22cf64b61?pvs=4)
 - [45장: 프로미스]()
 - [46장: 제너레이터와 async/await]()
