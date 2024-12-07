@@ -45,6 +45,6 @@
 - [43장: Ajax](https://www.notion.so/43-Ajax-1494bdcc393e80748dd6c21ebac7cb75?pvs=4)
 - [44장: REST API](https://www.notion.so/44-REST-API-1494bdcc393e8010a134e7f22cf64b61?pvs=4)
 - [45장: 프로미스]()
-- [46장: 제너레이터와 async/await]()
+- [46장: 제너레이터와 async/await](https://www.notion.so/46-async-await-1544bdcc393e80aab5e1f63e9db9e5de?pvs=4)
 - [47장: 에러 처리]()
 - [48장: 모듈]()
