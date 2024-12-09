@@ -47,4 +47,4 @@
 - [45장: 프로미스](https://www.notion.so/45-1504bdcc393e8093aa37fa054350aaf5?pvs=4)
 - [46장: 제너레이터와 async/await](https://www.notion.so/46-async-await-1544bdcc393e80aab5e1f63e9db9e5de?pvs=4)
 - [47장: 에러 처리]()
-- [48장: 모듈]()
+- [48장: 모듈](https://www.notion.so/48-1504bdcc393e80f8a849da829fad83d5?pvs=4)
