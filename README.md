@@ -1,8 +1,8 @@
 # 모던 자바스크립트 Deep Dive
 <모던 자바스크립트 Deep Dive> 읽으며 공부한 내용 정리
 - [1장: 프로그래밍](https://www.notion.so/01-1945f8e592d24a36b3cfe837d9735e72?pvs=4)
-- [2장: 자바스크립트란?]()
-- [3장: 자바스크립트 개발 환경과 실행 방법]()
+- 2장: 자바스크립트란?
+- 3장: 자바스크립트 개발 환경과 실행 방법
 - [4장: 변수](https://www.notion.so/04-c1721cbc6912463abe8ed21740e82a38?pvs=4)
 - [5장: 표현식과 문](https://www.notion.so/05-866c415368e54a27ad76c154fa7c6b2d?pvs=4)
 - [6장: 데이터 타입](https://www.notion.so/06-17cbf62c6acd43f7a8371e59d97f10a4?pvs=4)
@@ -12,7 +12,7 @@
 - [10장: 객체 리터럴](https://www.notion.so/10-ad6207b84e634fda858cc2ce72e9702f?pvs=4)
 - [11장: 원시 값과 객체의 비교](https://www.notion.so/11-32f52fa437f9448faf788703372209d5?pvs=4)
 - [12장: 함수](https://www.notion.so/12-b78086f9287240849ca80c8e60bbeeed?pvs=4)
-- [13장: 스코프]()
+- 13장: 스코프
 - [14장: 전역 변수의 문제점](https://www.notion.so/14-3e84318c9e66409db0f13d7563c2bcc8?pvs=4)
 - [15장: let, const 키워드와 블록 레벨 스코프](https://www.notion.so/15-let-const-cc64e2ed0d4544878b091fdee186f020?pvs=4)
 - [16장: 프로퍼티 어트리뷰트](https://www.notion.so/16-4ea5c9bf81dc4293b3e7e48b302e337b?pvs=4)
@@ -21,17 +21,17 @@
 - [19장: 프로토타입](https://www.notion.so/19-1ab280d046f04729bc005a6ab5e160b3?pvs=4)
 - [20장: strict mode](https://www.notion.so/20-strict-mode-2ea3a7d9bcad44d7b8e2483aa00ef30f?pvs=4)
 - [21장: 빌트인 객체](https://www.notion.so/21-e1ae94b9eb2e4fe1bb82dc971083d8bb?pvs=4)
-- [22장: this]()
-- [23장: 실행 컨텍스트]()
+- 22장: this
+- 23장: 실행 컨텍스트
 - [24장: 클로저](https://www.notion.so/24-1594bdcc393e80e795aed88cc60bf6e7?pvs=4)
-- [25장: 클래스]()
-- [26장: ES6 함수의 추가 기능]()
-- [27장: 배열]()
-- [28장: Number]()
-- [29장: Math]()
-- [30장: Date]()
-- [31장: RegExp]()
-- [32장: String]()
+- 25장: 클래스
+- 26장: ES6 함수의 추가 기능
+- 27장: 배열
+- 28장: Number
+- 29장: Math
+- 30장: Date
+- 31장: RegExp
+- 32장: String
 - [33장: 7번째 데이터 타입 Symbol](https://cookie-dream-b3e.notion.site/33-7-Symbol-1344bdcc393e80dfa212e86fb19c6d9e?pvs=4)
 - [34장: 이터러블](https://cookie-dream-b3e.notion.site/34-1344bdcc393e8014a36acb38c2b252bc?pvs=4)
 - [35장: 스프레드 문법](https://www.notion.so/35-13b4bdcc393e80c5ba62c4a8a868349d?pvs=4)
